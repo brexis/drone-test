@@ -1,0 +1,13 @@
+{
+    "name": "brexis/drone-test",
+    "authors": [
+        {
+            "name": "Boris Koumondji",
+            "email": "brexis2009@yahoo.fr"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    }
+}
