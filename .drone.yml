@@ -11,4 +11,3 @@ steps:
   image: php:7
   commands:
   - vendor/bin/phpunit
-  
